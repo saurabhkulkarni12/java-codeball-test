@@ -7,6 +7,6 @@ class Welcome{
 class HelloWorld{
   public static void main(String args[]){
   Welcome wc = new Welcome();
-  wel.userGreeting(;
+  wc.userGreeting(;
   }
 }
