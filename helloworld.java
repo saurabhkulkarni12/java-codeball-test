@@ -1,5 +1,5 @@
 class Welcome{
-  public void usergreeting(){
+  public void userGreeting(){
   System.out.println("Welcome to java programming");
   }
 }
@@ -7,6 +7,6 @@ class Welcome{
 class HelloWorld{
   public static void main(String args[]){
   welcome wel = new Welcome();
-  wel.ugreeting();
+  we.ugreeting();
   }
 }
