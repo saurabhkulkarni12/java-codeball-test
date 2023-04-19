@@ -1,12 +1,12 @@
 class Welcome{
-  public void (){
+  public void userGreeting(){
   System.out.println("Welcome to java programming");
   }
 }
 
 class HelloWorld{
   public static void main(String args[]){
-  Welcome  = new Welcome();
+  Welcome wel = new Welcome();
   wel.userGreeting(;
   }
 }
