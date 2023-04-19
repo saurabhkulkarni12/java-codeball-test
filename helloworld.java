@@ -1,10 +1,10 @@
-public class Welcome{
+class Welcome{
   public void ugreeting(){
   System.out.println("Welcome to java programming");
   }
 }
 
-Class HelloWorld{
+class HelloWorld{
   public static void main(String args[]){
   Welcome wel = new Welcome();
   wel.ugreeting();
