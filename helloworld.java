@@ -8,16 +8,17 @@ class Welcome {
         int c = a + b;
         return c;
   }
+  
 }
 
 class HelloWorld{
-  public static void main(String args[]){
+  public static void main(String ar]){
  
   Welcome wc = new Welcome();
   
   wc.userGreeting();
   
-  int result = wc.sum(10,20);
+  int result = sum(10,20);
   System.out.println(result);
   }
 }
