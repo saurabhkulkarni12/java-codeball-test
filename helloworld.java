@@ -4,12 +4,12 @@ class Welcome {
   System.out.println("Welcome to java programming");
   }
   
-  public int sum(int a,int b){
+  /*public int sum(int a,int b){
         int c = a + b;
         return c;
   }
   
-}
+}*/
 
 class HelloWorld{
   public static void main(String[] args){
