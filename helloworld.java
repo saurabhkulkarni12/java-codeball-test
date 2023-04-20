@@ -1,6 +1,6 @@
 class Welcome {
   
-  public void userGreetings(){
+  
   System.out.println("Welcome to java programming");
   }
   
@@ -14,11 +14,11 @@ class Welcome {
 class HelloWorld{
   public static void main(String[] args){
  
-  Welcome wc = new Welcome();
+  Welcome wc = Welcome();
   
   wc.userGreeting();
   
   int result = wc.sum(10,20);
-  System.out.println(result);
+  System.out.println(re);
   }
 }
