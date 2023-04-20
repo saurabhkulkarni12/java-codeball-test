@@ -11,14 +11,14 @@ class Welcome {
   
 }
 
-//class HelloWorld{
+class HelloWorld{
   public static void main(String[] args){
  
-  Welcome wc = Welcome();
+ /* Welcome wc = Welcome();
   
   wc.userGreeting();
   
   int result = wc.sum(10,20);
   System.out.println(result);
   }
-}
+}*/
