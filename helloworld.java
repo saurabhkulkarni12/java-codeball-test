@@ -10,13 +10,13 @@ class Welcome
         return c;
   }
 }
-/*class HelloWorld
+class HelloWorld
 {
- public static void main(String[] args)
+ //public static void main(String[] args)
  {
     Welcome wc = Welcome();
     wc.userGreeting();
-    int result = wc.sum(10,20);
+    //int result = wc.sum(10,20);
     System.out.println(result);
   }
-}*/
+}
