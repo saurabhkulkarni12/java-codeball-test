@@ -14,7 +14,7 @@ class Welcome {
 class HelloWorld{
   //public static void main(String[] args){
  
-  Welcome wc = Welcome();
+ Welcome wc = Welcome();
   
   wc.userGreeting();
   
