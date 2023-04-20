@@ -11,8 +11,8 @@ class Welcome {
   
 }
 
-class HelloWorld{
-  //public static void main(String[] args){
+//class HelloWorld{
+  public static void main(String[] args){
  
   Welcome wc = Welcome();
   
