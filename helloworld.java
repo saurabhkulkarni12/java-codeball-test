@@ -12,11 +12,11 @@ class Welcome
 }
 class HelloWorld
 {
-  public static void main(String[] arg)
+  public static void main(String[] args)
  {
    Welcome wc = new Welcome();
    wc.userGreeting();
-   int result = wc.sum(10,20);
+   //int result = wc.sum(10,20);
    System.out.println(result);
   }
 }
