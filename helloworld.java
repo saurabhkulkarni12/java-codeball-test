@@ -12,7 +12,7 @@ class Welcome
 }
 class HelloWorld
 {
-  public static void (String[] args)
+  public static void main(String[] arg)
  {
    Welcome wc = new Welcome();
    wc.userGreeting();
