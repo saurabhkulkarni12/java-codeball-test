@@ -6,7 +6,7 @@ class Welcome
   }
   public int sum(int a,int b)
   {
-        int c = a + b;
+        //int c = a + b;
         return c;
   }
 }
@@ -17,6 +17,6 @@ class Welcome
    //Welcome wc = new Welcome();
    wc.userGreeting();
    int result = wc.sum(10,20);
-   System.out.println(result);
+   //System.out.println(result);
   }
 }
