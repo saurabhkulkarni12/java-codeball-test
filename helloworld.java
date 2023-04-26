@@ -1,10 +1,10 @@
-class Welcome 
+//class Welcome 
 {
   public void userGreeting()
   {
   System.out.println("Welcome to java programming");
   }
-  public int sum(int a,int b)
+  //public int sum(int a,int b)
   {
         //int c = a + b;
         return c;
