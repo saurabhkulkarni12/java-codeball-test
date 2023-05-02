@@ -1,18 +1,18 @@
 class Welcome 
 {
-  public void userGreeting()
+  //public void userGreeting()
   {
   System.out.println("Welcome to java programming");
   }
   public int sum(int a,int b)
   {
         int c = a + b;
-        return c;
+       // return c;
   }
 }
-class HelloWorld
+//class HelloWorld
 {
-  public static void main(String[] args)
+  //public static void main(String[] args)
  {
    Welcome wc = new Welcome();
    wc.userGreeting();
